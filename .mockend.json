@@ -9,7 +9,7 @@
     "body": "string",
     "post": "Post"
   },
-  "apt": {
+  "Apt": {
     "aptSeq": "int"
   }
 }
