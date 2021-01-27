@@ -3,7 +3,11 @@
     {
       "id": 1,
       "title": "hello",
-      "profile": "profile[]"
+      "profile": "profile[]",
+      "nest": {
+        "aptSeq": 1,
+        "aptName": "이름"
+      }
     }
   ],
   "profile": [
