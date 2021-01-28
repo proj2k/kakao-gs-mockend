@@ -10,22 +10,20 @@
       }
     }
   ],
-  "aptSearchResult": [
-    {
-      "id": 1,
-      "title": "hello",
-      "profile": "profile[]",
-      "apt": [
-        {
-          "aptSeq": 1,
-          "aptName": "이름1"
-        },
-        { "aptSeq": 2, "aptName": "이름2" }
-      ],
-      "rtnCd": "S",
-      "rtnMsg": "성공"
-    }
-  ],
+  "aptSearchResult": {
+    "id": 1,
+    "title": "hello",
+    "profile": "profile[]",
+    "apt": [
+      {
+        "aptSeq": 1,
+        "aptName": "이름1"
+      },
+      { "aptSeq": 2, "aptName": "이름2" }
+    ],
+    "rtnCd": "S",
+    "rtnMsg": "성공"
+  },
   "profile": [
     {
       "name": "typicode1"
