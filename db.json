@@ -24,6 +24,38 @@
     "rtnCd": "S",
     "rtnMsg": "성공"
   },
+  "constructionResult": [
+    {
+      "id": 3,
+      "title": "공사중인 단지검색",
+      "profile": "profile[]",
+      "apt": [
+        {
+          "aptSeq": 1,
+          "aptName": "의정부역스카이자이",
+		  "sumProcRate": "3%",
+		  "procDate": "2020.12",
+		  "procImg": "https://www.xi.co.kr/Files/aptProcRateImg/20210120_082630_514001.jpg"
+        },
+		{
+          "aptSeq": 2,
+          "aptName": "대구용산자이",
+		  "sumProcRate": "7%",
+		  "procDate": "2020.11",
+		  "procImg": "https://www.xi.co.kr/Files/aptProcRateImg/20201125_100521_259001.JPG"
+        },
+		{
+          "aptSeq": 3,
+          "aptName": "별내자이더스타",
+		  "sumProcRate": "2%",
+		  "procDate": "2020.11",
+		  "procImg": "https://www.xi.co.kr/Files/aptProcRateImg/20210104_080934_964001.JPG"
+        }
+      ],
+      "rtnCd": "S",
+      "rtnMsg": "성공"
+    }
+  ],
   "profile": [
     {
       "name": "typicode1"
