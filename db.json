@@ -1,5 +1,4 @@
 {
-	"01":"단지 리스트 조회",
 	"getAptList": {
 		"result": {
 			"flag": "N",
