@@ -1,5 +1,5 @@
 {
-	"api/app/v1/chatbot/getAptList": [
+	"getAptList": [
 		{
 			"result":{
 				"flag":"N"
