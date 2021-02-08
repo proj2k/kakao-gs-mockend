@@ -1,6 +1,7 @@
 {
-	"getAptList": [
-		{
+ 	"api": {"app": {"v1": {"chatbot": [{
+		
+		"getAptList":{
 			"result":{
 				"flag":"N"
 				,"data":[
@@ -24,5 +25,10 @@
 				,"stateMessage":"성공"
 			}
 		}
-	]
+
+		
+		
+		
+	}]}}}
 }
+
