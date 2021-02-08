@@ -1,67 +1,34 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello",
-      "profile": "profile[]",
-      "nest": {
-        "aptSeq": 1,
-        "aptName": "이름5"
-      }
-    }
-  ],
-  "aptSearchResult": {
-    "id": 1,
-    "title": "hello",
-    "profile": "profile[]",
-    "apt": [
-      {
-        "aptSeq": 1,
-        "aptName": "이름1"
-      },
-      { "aptSeq": 2, "aptName": "이름2" }
-    ],
-    "rtnCd": "S",
-    "rtnMsg": "성공"
-  },
-  "constructionResult": [
-    {
-      "id": 3,
-      "title": "공사중인 단지검색",
-      "profile": "profile[]",
-      "apt": [
-        {
-          "aptSeq": 1,
-          "aptName": "의정부역스카이자이",
-		  "sumProcRate": "3%",
-		  "procDate": "2020.12",
-		  "procImg": "https://www.xi.co.kr/Files/aptProcRateImg/20210120_082630_514001.jpg"
-        },
-		{
-          "aptSeq": 2,
-          "aptName": "대구용산자이",
-		  "sumProcRate": "7%",
-		  "procDate": "2020.11",
-		  "procImg": "https://www.xi.co.kr/Files/aptProcRateImg/20201125_100521_259001.JPG"
-        },
-		{
-          "aptSeq": 3,
-          "aptName": "별내자이더스타",
-		  "sumProcRate": "2%",
-		  "procDate": "2020.11",
-		  "procImg": "https://www.xi.co.kr/Files/aptProcRateImg/20210104_080934_964001.JPG"
-        }
-      ],
-      "rtnCd": "S",
-      "rtnMsg": "성공"
-    }
-  ],
-  "profile": [
-    {
-      "name": "typicode1"
-    },
-    {
-      "name": "typicode2"
-    }
-  ]
+ 	"api": {"app": {"v1": {"chatbot": [{
+		
+		"getAptList":{
+			"result":{
+				"flag":"N"
+				,"data":[
+					{
+						"aptName":"가평자이"
+						,"aptSeq":"1"
+						,"aptUrl":"http://xn--o39aq43cncu90d.kr/"
+					},
+					{
+						"aptName":"판교밸리자이"
+						,"aptSeq":"2"
+						,"aptUrl":"http://www.pangyo-xi.co.kr/web/index.php"
+					},
+					{
+						"aptName":"송도자이 크리스탈오션"
+						,"aptSeq":"3"
+						,"aptUrl":"http://songdo-xi.com/"
+					}
+				]
+				,"stateCode":"S"
+				,"stateMessage":"성공"
+			}
+		}
+
+		
+		
+		
+	}]}}}
 }
+
