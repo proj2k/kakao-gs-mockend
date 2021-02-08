@@ -1,34 +1,35 @@
 {
- 	"api": {"app": {"v1": {"chatbot": [{
-		
-		"getAptList":{
-			"result":{
-				"flag":"N"
-				,"data":[
-					{
-						"aptName":"가평자이"
-						,"aptSeq":"1"
-						,"aptUrl":"http://xn--o39aq43cncu90d.kr/"
-					},
-					{
-						"aptName":"판교밸리자이"
-						,"aptSeq":"2"
-						,"aptUrl":"http://www.pangyo-xi.co.kr/web/index.php"
-					},
-					{
-						"aptName":"송도자이 크리스탈오션"
-						,"aptSeq":"3"
-						,"aptUrl":"http://songdo-xi.com/"
-					}
-				]
-				,"stateCode":"S"
-				,"stateMessage":"성공"
-			}
-		}
-
-		
-		
-		
-	}]}}}
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello",
+      "profile": "profile[]",
+      "nest": {
+        "aptSeq": 1,
+        "aptName": "이름5"
+      }
+    }
+  ],
+  "aptSearchResult": {
+    "id": 1,
+    "title": "hello",
+    "profile": "profile[]",
+    "apt": [
+      {
+        "aptSeq": 1,
+        "aptName": "이름1"
+      },
+      { "aptSeq": 2, "aptName": "이름2" }
+    ],
+    "rtnCd": "S",
+    "rtnMsg": "성공"
+  },
+  "profile": [
+    {
+      "name": "typicode1"
+    },
+    {
+      "name": "typicode2"
+    }
+  ]
 }
-
