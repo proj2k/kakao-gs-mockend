@@ -1,34 +1,26 @@
 {
-  "api": {
-    "app": {
-      "v1": {
-        "chatbot": {
-          "getAptList": {
-            "result": {
-              "flag": "N",
-              "data": [
-                {
-                  "aptName": "가평자이",
-                  "aptSeq": "1",
-                  "aptUrl": "http://xn--o39aq43cncu90d.kr/"
-                },
-                {
-                  "aptName": "판교밸리자이",
-                  "aptSeq": "2",
-                  "aptUrl": "http://www.pangyo-xi.co.kr/web/index.php"
-                },
-                {
-                  "aptName": "송도자이 크리스탈오션",
-                  "aptSeq": "3",
-                  "aptUrl": "http://songdo-xi.com/"
-                }
-              ],
-              "stateCode": "S",
-              "stateMessage": "성공"
-            }
-          }
-        }
-      }
-    }
-  }
+	"getAptList": {
+		"result": {
+			"flag": "N",
+			"data": [
+				{
+					"aptName": "가평자이",
+					"aptSeq": "1",
+					"aptUrl": "http://xn--o39aq43cncu90d.kr/"
+				},
+				{
+					"aptName": "판교밸리자이",
+					"aptSeq": "2",
+					"aptUrl": "http://www.pangyo-xi.co.kr/web/index.php"
+				},
+				{
+					"aptName": "송도자이 크리스탈오션",
+					"aptSeq": "3",
+					"aptUrl": "http://songdo-xi.com/"
+				}
+			],
+			"stateCode": "S",
+			"stateMessage": "성공"
+		}
+	}
 }
