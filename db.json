@@ -429,6 +429,5 @@
     },
     "stateCode": "S",
     "stateMessage": "성공"
-  },
-  "test": "value2"
+  }
 }
