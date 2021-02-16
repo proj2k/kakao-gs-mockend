@@ -76,22 +76,14 @@
   "getConstructList": {
     "result": {
       "flag": "Y",
-      "data": [
+      "data":
         {
           "aptSeq": "4",
           "aptName": "의정부역스카이자이",
           "sumProcRate": "3",
           "procDate": "2020.12",
           "procImg": "https://xi.co.kr/Files/apt/20200810_161019_112001.jpg"
-        },
-        {
-          "aptSeq": "5",
-          "aptName": "대구용산자이",
-          "sumProcRate": "7",
-          "procDate": "2020.11",
-          "procImg": "https://xi.co.kr/Files/apt/20200427_170849_900001.jpg"
         }
-      ]
     },
     "stateCode": "S",
     "stateMessage": "성공"
