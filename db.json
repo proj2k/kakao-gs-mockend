@@ -333,12 +333,12 @@
       "flag": "Y",
       "data": [
         {
-          "paymemntType": "1",
+          "paymentType": "1",
           "bank": "하나은행",
           "bankNumber": "계좌번호1"
         },
         {
-          "paymemntType": "2",
+          "paymentType": "2",
           "bank": "우리은행",
           "bankNumber": "계좌번호2"
         }
