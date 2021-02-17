@@ -76,14 +76,13 @@
   "getConstructList": {
     "result": {
       "flag": "Y",
-      "data":
-        {
-          "aptSeq": "4",
-          "aptName": "의정부역스카이자이",
-          "sumProcRate": "3",
-          "procDate": "2020.12",
-          "procImg": "https://xi.co.kr/Files/apt/20200810_161019_112001.jpg"
-        }
+      "data": {
+        "aptSeq": "4",
+        "aptName": "의정부역스카이자이",
+        "sumProcRate": "3",
+        "procDate": "2020.12",
+        "procImg": "https://xi.co.kr/Files/apt/20200810_161019_112001.jpg"
+      }
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -334,10 +333,12 @@
       "flag": "Y",
       "data": [
         {
+          "paymemntType": "1",
           "bank": "하나은행",
           "bankNumber": "계좌번호1"
         },
         {
+          "paymemntType": "2",
           "bank": "우리은행",
           "bankNumber": "계좌번호2"
         }
