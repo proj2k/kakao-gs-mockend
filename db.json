@@ -4,19 +4,19 @@
       "flag": "N",
       "data": [
         {
-          "aptName": "가평자이",
-          "aptSeq": "1",
-          "aptUrl": "https://xi.co.kr"
+          "APT_NAME": "가평자이",
+          "APT_SEQ": "1",
+          "APT_URL": "https://xi.co.kr"
         },
         {
-          "aptName": "판교밸리자이",
-          "aptSeq": "2",
-          "aptUrl": "https://xi.co.kr"
+          "APT_NAME": "판교밸리자이",
+          "APT_SEQ": "2",
+          "APT_URL": "https://xi.co.kr"
         },
         {
-          "aptName": "송도자이 크리스탈오션",
-          "aptSeq": "3",
-          "aptUrl": "https://xi.co.kr"
+          "APT_NAME": "송도자이 크리스탈오션",
+          "APT_SEQ": "3",
+          "APT_URL": "https://xi.co.kr"
         }
       ]
     },
@@ -27,17 +27,17 @@
   "getAptName": {
     "result": {
       "flag": "N",
-      "aptSeq": "1",
-      "aptName": "가평자이",
-      "aptType": "아파트",
-      "aptImg": "https://xi.co.kr/Files/apt/20210121_163134_401001.jpg",
-      "aptSaleDate": "2020년 1월",
-      "aptStateType": "분양중",
-      "address": "경기도 가평군 대곡리 390-2번지 외",
-      "householdCnt": "505",
-      "movingDate": "2023년 8월",
-      "aptReservationUrl": "https://xi.co.kr",
-      "aptSaleUrl": "https://xi.co.kr"
+      "APT_SEQ": "1",
+      "APT_NAME": "가평자이",
+      "APT_TYPE": "아파트",
+      "APT_IMG": "https://xi.co.kr/Files/apt/20210121_163134_401001.jpg",
+      "APT_SALE_DATE": "2020년 1월",
+      "APT_STATE_TYPE": "분양중",
+      "ADDRESS": "경기도 가평군 대곡리 390-2번지 외",
+      "HOUSEHOLD_CNT": "505",
+      "MOVING_DATE": "2023년 8월",
+      "APT_RESERVATION_URL": "https://xi.co.kr",
+      "APT_SALE_URL": "https://xi.co.kr"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -56,16 +56,16 @@
       "flag": "Y",
       "data": [
         {
-          "aptSeq": "1",
-          "aptName": "가평자이",
-          "aptImg": "https://xi.co.kr/Files/apt/20210121_163134_401001.jpg",
-          "aptUrl": "https://xi.co.kr"
+          "APT_SEQ": "1",
+          "APT_NAME": "가평자이",
+          "APT_IMG": "https://xi.co.kr/Files/apt/20210121_163134_401001.jpg",
+          "APT_URL": "https://xi.co.kr"
         },
         {
-          "aptSeq": "2",
-          "aptName": "판교밸리자이",
-          "aptImg": "https://xi.co.kr/Files/apt/20201202_152837_295001.jpg",
-          "aptUrl": "https://xi.co.kr"
+          "APT_SEQ": "2",
+          "APT_NAME": "판교밸리자이",
+          "APT_IMG": "https://xi.co.kr/Files/apt/20201202_152837_295001.jpg",
+          "APT_URL": "https://xi.co.kr"
         }
       ]
     },
@@ -77,11 +77,11 @@
     "result": {
       "flag": "Y",
       "data": {
-        "aptSeq": "4",
-        "aptName": "의정부역스카이자이",
-        "sumProcRate": "3",
-        "procDate": "2020.12",
-        "procImg": "https://xi.co.kr/Files/apt/20200810_161019_112001.jpg"
+        "APT_SEQ": "4",
+        "APT_NAME": "의정부역스카이자이",
+        "SUM_PROC_RATE": "3",
+        "PROC_DATE": "2020.12",
+        "PROC_IMG": "https://xi.co.kr/Files/apt/20200810_161019_112001.jpg"
       }
     },
     "stateCode": "S",
@@ -93,30 +93,30 @@
       "flag": "N",
       "data": [
         {
-          "aptSeq": "1",
-          "aptName": "가평자이",
-          "aptImg": "https://xi.co.kr/Files/apt/20210121_163134_401001.jpg",
-          "aptSaleDate": "2021년 1월",
-          "aptStateType": "분양중",
-          "addrFurll": "경기도 가평군 대곡리 390-2번지 외",
-          "householdCnt": "505",
-          "movingDate": "2023년 8월",
-          "cmUrl": "https://xi.co.kr",
-          "mhUrl": "https://xi.co.kr",
-          "aptUrl": "https://xi.co.kr"
+          "APT_SEQ": "1",
+          "APT_NAME": "가평자이",
+          "APT_IMG": "https://xi.co.kr/Files/apt/20210121_163134_401001.jpg",
+          "APT_SALE_DATE": "2021년 1월",
+          "APT_STATE_TYPE": "분양중",
+          "ADDR_FULL": "경기도 가평군 대곡리 390-2번지 외",
+          "HOUSEHOLD_CNT": "505",
+          "MOVING_DATE": "2023년 8월",
+          "CM_URL": "https://xi.co.kr",
+          "MH_URL": "https://xi.co.kr",
+          "APT_URL": "https://xi.co.kr"
         },
         {
-          "aptSeq": "2",
-          "aptName": "판교밸리자이",
-          "aptImg": "https://xi.co.kr/Files/apt/20201202_152837_295001.jpg",
-          "aptSaleDate": "2020년 12월",
-          "aptStateType": "분양중",
-          "addrFurll": "경기도 성남시 성남고등지구 내 주상복합 C-1BL, C-2BL",
-          "householdCnt": "305",
-          "movingDate": "2023년 2월",
-          "cmUrl": "https://xi.co.kr",
-          "mhUrl": "https://xi.co.kr",
-          "aptUrl": "https://xi.co.kr"
+          "APT_SEQ": "2",
+          "APT_NAME": "판교밸리자이",
+          "APT_IMG": "https://xi.co.kr/Files/apt/20201202_152837_295001.jpg",
+          "APT_SALE_DATE": "2020년 12월",
+          "APT_STATE_TYPE": "분양중",
+          "ADDR_FULL": "경기도 성남시 성남고등지구 내 주상복합 C-1BL, C-2BL",
+          "HOUSEHOLD_CNT": "305",
+          "MOVING_DATE": "2023년 2월",
+          "CM_URL": "https://xi.co.kr",
+          "MH_URL": "https://xi.co.kr",
+          "APT_URL": "https://xi.co.kr"
         }
       ]
     },
@@ -129,13 +129,13 @@
       "flag": "N",
       "data": [
         {
-          "household": "59"
+          "HOUSEHOLD": "59"
         },
         {
-          "household": "84"
+          "HOUSEHOLD": "84"
         },
         {
-          "household": "110"
+          "HOUSEHOLD": "110"
         }
       ]
     },
@@ -154,7 +154,7 @@
   "getAptCatalog": {
     "result": {
       "flag": "Y",
-      "downloadUrl": "https://xi.co.kr"
+      "DOWNLOAD_URL": "https://xi.co.kr"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -163,7 +163,7 @@
   "getDownPayment": {
     "result": {
       "flag": "N",
-      "aptDownPayment": "계약금 문의"
+      "APT_DOWNPAYMENT": "계약금 문의"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -172,7 +172,7 @@
   "getMiddlePaymentInterest": {
     "result": {
       "flag": "N",
-      "middlePaymentInterest": "중도금 이자 문의"
+      "MIDDLE_PAYMENT_INTEREST": "중도금 이자 문의"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -181,8 +181,8 @@
   "getAptSubscription": {
     "result": {
       "flag": "N",
-      "subscriptionImg": "https://xi.co.kr/Files/apt/20210121_163134_401001.jpg",
-      "subscriptionUrl": "https://xi.co.kr"
+      "SUBSCRIPTION_IMG": "https://xi.co.kr/Files/apt/20210121_163134_401001.jpg",
+      "SUBSCRIPTION_URL": "https://xi.co.kr"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -201,19 +201,19 @@
       "flag": "N",
       "data": [
         {
-          "aptName": "가평자이",
-          "aptSeq": "1",
-          "aptUrl": "https://xi.co.kr"
+          "APT_NAME": "가평자이",
+          "APT_SEQ": "1",
+          "APT_URL": "https://xi.co.kr"
         },
         {
-          "aptName": "판교밸리자이",
-          "aptSeq": "2",
-          "aptUrl": "https://xi.co.kr"
+          "APT_NAME": "판교밸리자이",
+          "APT_SEQ": "2",
+          "APT_URL": "https://xi.co.kr"
         },
         {
-          "aptName": "송도자이 크리스탈오션",
-          "aptSeq": "3",
-          "aptUrl": "https://xi.co.kr"
+          "APT_NAME": "송도자이 크리스탈오션",
+          "APT_SEQ": "3",
+          "APT_URL": "https://xi.co.kr"
         }
       ]
     },
@@ -224,7 +224,7 @@
   "getSubscriptionQualification": {
     "result": {
       "flag": "N",
-      "checklistUrl": "https://xi.co.kr"
+      "CHECKLIST_URL": "https://xi.co.kr"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -233,7 +233,7 @@
   "getContractorInfo": {
     "result": {
       "flag": "Y",
-      "tel": "정보 변경 문의(계약자)"
+      "TEL": "정보 변경 문의(계약자)"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -242,7 +242,7 @@
   "getPrePaymentDiscount": {
     "result": {
       "flag": "Y",
-      "discount": "선납시 할인률 문의"
+      "DISCOUNT": "선납시 할인률 문의"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -251,7 +251,7 @@
   "getOverdue": {
     "result": {
       "flag": "Y",
-      "message": "연체관련안내"
+      "MESSAGE": "연체관련안내"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -260,7 +260,7 @@
   "getLoanBank": {
     "result": {
       "flag": "Y",
-      "bank": "대출은행안내"
+      "BANK": "대출은행안내"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -269,7 +269,7 @@
   "requestAS": {
     "result": {
       "flag": "6",
-      "applyLink": "https://xi.co.kr/mypage/complaint/write?complaintType=00006"
+      "APPLY_LINK": "https://xi.co.kr/mypage/complaint/write?complaintType=00006"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -278,7 +278,7 @@
   "getAptAir": {
     "result": {
       "flag": "Y",
-      "message": "https://xi.co.kr/customer/contract/air_quality"
+      "MESSAGE": "https://xi.co.kr/customer/contract/air_quality"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -287,7 +287,7 @@
   "getAptWinner": {
     "result": {
       "flag": "Y",
-      "winnerUrl": "https://xi.co.kr"
+      "WINNER_URL": "https://xi.co.kr"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -304,7 +304,7 @@
   "getAptLink": {
     "result": {
       "flag": "N",
-      "aptUrl": "https://xi.co.kr"
+      "APT_URL": "https://xi.co.kr"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -313,7 +313,7 @@
   "getPreReservation": {
     "result": {
       "flag": "Y",
-      "reservationUrl": "https://xi.co.kr"
+      "RESERVATION_URL": "https://xi.co.kr"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -322,7 +322,7 @@
   "getSpecialSupportQuestion": {
     "result": {
       "flag": "N",
-      "specialUrl": "https://xi.co.kr"
+      "SPECIAL_URL": "https://xi.co.kr"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -333,14 +333,14 @@
       "flag": "Y",
       "data": [
         {
-          "paymentType": "1",
-          "bank": "하나은행",
-          "bankNumber": "계좌번호1"
+          "PAYMENT_TYPE": "1",
+          "BANK": "하나은행",
+          "BANK_NUMBER": "계좌번호1"
         },
         {
-          "paymentType": "2",
-          "bank": "우리은행",
-          "bankNumber": "계좌번호2"
+          "PAYMENT_TYPE": "2",
+          "BANK": "우리은행",
+          "BANK_NUMBER": "계좌번호2"
         }
       ]
     },
@@ -359,7 +359,7 @@
   "getAptCost": {
     "result": {
       "flag": "Y",
-      "paymentLink": "분양대금별 납부내역 조회 링크"
+      "PAYMENT_LINK": "분양대금별 납부내역 조회 링크"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -368,7 +368,7 @@
   "getMySchedule": {
     "result": {
       "flag": "N",
-      "calendarUrl": "https://xi.co.kr"
+      "CALENDAR_URL": "https://xi.co.kr"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -379,24 +379,24 @@
       "flag": "Y",
       "data": [
         {
-          "rsvSeq": "1",
-          "rsvType": "예약종류1",
-          "serviceDate": "예약일시1",
-          "serviceTime": "예약시간1",
-          "regDate": "신청일1",
-          "aptDong": "신청동1",
-          "aptHo": "신청호1",
-          "memberAptInfoSeq": "고객 APT정보 번호1"
+          "RSV_SEQ": "1",
+          "RSV_TYPE": "예약종류1",
+          "SERVICE_DATE": "예약일시1",
+          "SERVICE_TIME": "예약시간1",
+          "REG_DATE": "신청일1",
+          "APT_DONG": "신청동1",
+          "APT_HO": "신청호1",
+          "MEMBER_APT_INFO_SEQ": "고객 APT정보 번호1"
         },
         {
-          "rsvSeq": "2",
-          "rsvType": "예약종류2",
-          "serviceDate": "예약일시2",
-          "serviceTime": "예약시간2",
-          "regDate": "신청일2",
-          "aptDong": "신청동2",
-          "aptHo": "신청호2",
-          "memberAptInfoSeq": "고객 APT정보 번호2"
+          "RSV_SEQ": "2",
+          "RSV_TYPE": "예약종류2",
+          "SERVICE_DATE": "예약일시2",
+          "SERVICE_TIME": "예약시간2",
+          "REG_DATE": "신청일2",
+          "APT_DONG": "신청동2",
+          "APT_HO": "신청호2",
+          "MEMBER_APT_INFO_SEQ": "고객 APT정보 번호2"
         }
       ],
       "url": "https://xi.co.kr"
@@ -408,7 +408,7 @@
   "updateMyReservation": {
     "result": {
       "flag": "Y",
-      "reservationUrl": "https://xi.co.kr"
+      "RESERVATION_URL": "https://xi.co.kr"
     },
     "stateCode": "S",
     "stateMessage": "성공"
@@ -417,8 +417,8 @@
   "qna": {
     "result": {
       "flag": "Y",
-      "name": "최민우",
-      "email": "test@test.com"
+      "NAME": "최민우",
+      "EMAIL": "test@test.com"
     },
     "stateCode": "S",
     "stateMessage": "성공"
