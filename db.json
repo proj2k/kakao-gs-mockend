@@ -423,4 +423,30 @@
     "stateCode": "S",
     "stateMessage": "성공"
   }
+
+
+,"getTestTest" : [
+		{
+			"IMG": "https://xi.co.kr/Files/apt/20201202_152837_295001.jpg",
+			"TEST": "1",
+			"BUTTON" : [
+				{
+					"BUTTON1" : "BUTTON1"
+					,"BUTTON2" : "BUTTON2"
+					,"BUTTON3" : "BUTTON3"
+				}
+			]
+		},
+		{
+			"IMG": "https://xi.co.kr/Files/apt/20201202_152837_295001.jpg",
+			"TEST": "2",
+			"BUTTON" : [
+				{
+					"BUTTON1" : "BUTTON1"
+					,"BUTTON2" : "BUTTON2"
+				}
+			]
+		}
+	]
 }
+
